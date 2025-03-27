@@ -62,7 +62,7 @@ async def start_command(client: Client, message: Message):
                 )
 
             if not verify_status['is_verified']:
-                token = ''.join(random.choices(rohit.ascii_letters + rohit.digits, k=10))
+                token = ''.join(random.choices(mrghostsx.ascii_letters + mrghostsx.digits, k=10))
                 await update_verify_status(id, verify_token=token, link="")
                 link = await get_shortlink(SHORTLINK_URL, SHORTLINK_API, f'https://telegram.dog/{client.username}?start=verify_{token}')
                 btn = [
