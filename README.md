@@ -1,0 +1,136 @@
+━━━━━━━━━━━━━━━━━━━━
+
+<h2 align="center">
+    ──「 ғɪʟᴇ sᴛᴏʀᴇ ᴘʀᴏ 」──
+</h2>
+
+<p align="center">
+  <img src="https://graph.org/file/8581e33195ed8183a3253.jpg">
+</p>
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+TECH+SHREYANSH+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
+</p>
+
+ ━━━━━━━━━━━━━━━━━
+
+<details><summary><b> - ғᴇᴀᴛᴜʀᴇs:</b></summary>
+  
+## ғᴇᴀᴛᴜʀᴇs
+- Fully customisable.
+- Multi Force Sub Channels 
+- File Auto Delete.
+- Get File Again button.
+- Customisable welcome & Forcesub messages.
+- Token Verification Feature On/Off
+- Can be deployed on heroku directly.
+- Can be deployed on Koyeb Either
+
+- More Features Coming Soon...
+</details>
+
+<details><summary><b> - ᴠᴀʀɪᴀʙʟᴇs :</b></summary>
+  
+## ᴠᴀʀɪᴀʙʟᴇs
+* `API_HASH` Your API Hash from my.telegram.org
+* `APP_ID` Your API ID from my.telegram.org
+* `TG_BOT_TOKEN` Your bot token from @BotFather
+* `OWNER_ID` Must enter Your Telegram Id
+* `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
+* `DATABASE_URL` Your mongo db url
+* `DATABASE_NAME` Your mongo db session name
+* `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/mrghostsx/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
+* `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
+* `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL1` 1st ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL2` 2nd ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL3` 3rd ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL4` 4th ForceSub Channel ID, leave 0 if you want disable force sub
+* `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
+
+### Token Variables
+
+* `IS_VERIFY` = Default : "True" (if you want off : False )
+* `SHORTLINK_URL` = Your shortner Url ( ex. "gplinks.com")
+* `SHORTLINK_API` = Your shortner API (ex. "3c6b334763d6ef2e5325149b8e37fcd772591a6e")
+* `VERIFY_EXPIRE` = ( ex. 86400)) # Add time in seconds
+</details>
+
+## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
+
+```
+/start - start the bot or get posts
+/batch - create link for more than one posts
+/genlink - create link for one post
+/users - view bot statistics
+/broadcast - broadcast any messages to bot users
+/dbroadcast - broadcast any messages with auto delete.
+/stats - checking your bot uptime
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛ...
+
+</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴛᴇᴄʜ ꜱʜʀᴇʏᴀɴꜱʜ](https://t.me/Tech_Shreyansh)</b>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<details>
+<summary><h3>
+- <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
+</h3></summary>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MrGhostsx/FileStore">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
+</h3>
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/MrGhostsx/FileStore&branch=master&name=master">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
+</h3>
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/MrGhostsx/FileStore">
+     <img height="45px" src="https://railway.app/button.svg">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
+</h3>
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/MrGhostsx/FileStore">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
+</h3>
+<p>
+<pre>
+git clone https://github.com/MrGhostsx/FileStore
+# Install Packages
+pip3 install -U -r requirements.txt
+Edit info.py with variables as given below then run bot
+python3 bot.py
+</pre>
+</p>
+</details>
+
+<h3>「 ᴄʀᴇᴅɪᴛs 」
+</h3>
+
+- <b>[ᴛᴇᴄʜ ꜱʜʀᴇʏᴀɴꜱʜ](https://t.me/Tech_Shreyansh29)  ➻  [ᴜᴘᴅᴀᴛᴇs](https://t.me/Tech_Shreyansh29) </b>
+- <b>[Abhi](https://github.com/AbhiTheModder)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/ReverseEngineering0) </b>
+- <b>[Raman](https://github.com/ramanveerji)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/rs_bro) </b>
+ 
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/MrGhostsx) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+
+## 📌  𝑵𝒐𝒕𝒆
+
+ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
